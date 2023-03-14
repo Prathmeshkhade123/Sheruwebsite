@@ -1,0 +1,33 @@
+.ourshop {
+    text-align: left;
+    padding: 10rem;
+    width: 100%;
+    height: 100%;
+}
+
+.page3 {
+    line-height: 3rem;
+}
+
+.page3head {
+    font-size: 3.5rem;
+}
+
+.page3para {
+    font-size: 1.2rem;
+}
+.photos{
+    padding-top: 5rem;
+}
+.ourshopimg{
+    height: 17rem;
+    width:  35rem;
+}
+.photoblock{
+    display: flex;
+    justify-content:space-between;
+    padding-bottom: 10rem;
+}
+.heading3{
+    margin-top: 1.5rem;
+}

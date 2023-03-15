@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./BuyTheme.css";
 function BuyTheme() {
   return (
     <div>

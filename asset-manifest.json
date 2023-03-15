@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Sheruwebsite/static/css/main.96d4c1d1.css",
-    "main.js": "/Sheruwebsite/static/js/main.f7aa989c.js",
+    "main.css": "/Sheruwebsite/static/css/main.5d171136.css",
+    "main.js": "/Sheruwebsite/static/js/main.01d87742.js",
     "index.html": "/Sheruwebsite/index.html",
-    "main.96d4c1d1.css.map": "/Sheruwebsite/static/css/main.96d4c1d1.css.map",
-    "main.f7aa989c.js.map": "/Sheruwebsite/static/js/main.f7aa989c.js.map"
+    "main.5d171136.css.map": "/Sheruwebsite/static/css/main.5d171136.css.map",
+    "main.01d87742.js.map": "/Sheruwebsite/static/js/main.01d87742.js.map"
   },
   "entrypoints": [
-    "static/css/main.96d4c1d1.css",
-    "static/js/main.f7aa989c.js"
+    "static/css/main.5d171136.css",
+    "static/js/main.01d87742.js"
   ]
 }
